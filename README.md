@@ -9,3 +9,9 @@ Just `npm install yarn` and:
 * Pull down the docker image `docker build -t nw-shuriken-test .`
 * Spin up the container `docker run --rm -it -p 8080:8080 nw-shuriken-test`
 * Stop the container `docker stop nw-shuriken-test`
+
+## Docker setup guide:
+
+https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
+
+## Codeship build setup guide

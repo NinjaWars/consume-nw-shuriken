@@ -1,0 +1,4 @@
+codeship_example:
+  build: .
+  environment:
+    CI: true
